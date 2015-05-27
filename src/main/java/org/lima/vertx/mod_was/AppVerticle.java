@@ -29,5 +29,6 @@ public class AppVerticle extends BusModBase {
 
 		logger.info("starting Application Verticle...");
 		
+		// test
 	}
 }
